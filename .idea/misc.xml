@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2955" />
         <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2955" />
+        <entry key="..\:/Users/carlo/Documents/Android-projects/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2955" />
       </map>
     </option>
   </component>
